@@ -1,4 +1,5 @@
 1. Describe basic aspects of AWS Elastic Compute Cloud.
+
 AWS Elastic Compute Cloud, create and connect in a virtual machines, create vpc and set the security for inbound and outbound traffic.
 Install Apache, PHP and MySQL server in a Linux instance and perform all configurations.
 Install httpd mariadb-server and write html code on aws ec2.
